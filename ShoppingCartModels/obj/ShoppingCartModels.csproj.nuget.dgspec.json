@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartModels\\ShoppingCartModels.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartModels\\ShoppingCartModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartModels\\ShoppingCartModels.csproj",
+        "projectName": "ShoppingCartModels",
+        "projectPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartModels\\ShoppingCartModels.csproj",
+        "packagesPath": "C:\\Users\\danda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\ShoppingCartTest.csproj": {
+                "projectPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\ShoppingCartTest.csproj"
+              },
+              "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\ShoppingCartWebAPI.csproj": {
+                "projectPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\ShoppingCartWebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\ShoppingCartTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\ShoppingCartTest.csproj",
+        "projectName": "ShoppingCartTest",
+        "projectPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\ShoppingCartTest.csproj",
+        "packagesPath": "C:\\Users\\danda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\ShoppingCartWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\ShoppingCartWebAPI.csproj",
+        "projectName": "ShoppingCartWebAPI",
+        "projectPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\ShoppingCartWebAPI.csproj",
+        "packagesPath": "C:\\Users\\danda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danda\\OneDrive\\Desktop\\Assignment 4\\ShoppingCartWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\danda\OneDrive\Desktop\Assignment 4\ShoppingCartModels\obj\Debug\net8.0\ShoppingCartModels.csproj.AssemblyReference.cache
+C:\Users\danda\OneDrive\Desktop\Assignment 4\ShoppingCartModels\obj\Debug\net8.0\ShoppingCartModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danda\OneDrive\Desktop\Assignment 4\ShoppingCartModels\obj\Debug\net8.0\ShoppingCartModels.AssemblyInfoInputs.cache
+C:\Users\danda\OneDrive\Desktop\Assignment 4\ShoppingCartModels\obj\Debug\net8.0\ShoppingCartModels.AssemblyInfo.cs
+C:\Users\danda\OneDrive\Desktop\Assignment 4\ShoppingCartModels\obj\Debug\net8.0\ShoppingCartModels.csproj.CoreCompileInputs.cache
